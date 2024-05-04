@@ -1,16 +1,23 @@
-### Hi there 👋
+# Liam Blaschka
+<a href="https://www.linkedin.com/in/liam-blaschka-549110282/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-<!--
-**liamblaschka/liamblaschka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a highly motivated student studying my penultimate year of Bachelor of Computer Science at The University of Adelaide.<br>
+I greatly excel in problem solving, and have a great interest in technology and find hugley captivating how it can be used to create solutions to real world problems.
 
-Here are some ideas to get you started:
+Through my studies, I have come to develop a deep interest in Software Engineering and Artificial Intelligence, recognising their power to impact how we use technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Chess
+- Weather app
+- Tic Tac Toe
+- To do list
+
+## Skills
+- C
+- C++
+- Object Oriented Programming
+
+## Certifications
+<div>
+<a href="https://learn.microsoft.com/en-au/users/liamblaschka-6467/credentials/b33ccad408549495"><img src="https://img.shields.io/badge/-Microsoft_Certified:_Azure_AI_Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/></a>
+</div>
