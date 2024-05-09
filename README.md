@@ -11,11 +11,12 @@ Through my studies, I have come to develop a deep interest in Software Engineeri
 - Weather app
 - Tic Tac Toe
 - To do list
+- Snake
 
 ## Skills
 - C
 - C++
-- Object Oriented Programming
+- Object-Oriented Programming
 
 ## Certifications
 <div>
