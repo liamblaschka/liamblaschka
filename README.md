@@ -7,7 +7,7 @@ I greatly excel in problem solving, and have a great interest in technology and 
 Through my studies, I have come to develop a deep interest in Software Engineering and Artificial Intelligence, recognising their power to impact how we use technology.
 
 ## Projects
-- Chess
+- <a href="https://github.com/liamblaschka/Chess">Chess</a>
 - Weather app
 - Tic Tac Toe
 - To do list
