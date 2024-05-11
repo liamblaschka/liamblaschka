@@ -8,10 +8,10 @@ Through my studies, I have come to develop a deep interest in Software Engineeri
 
 ## Projects
 - <a href="https://github.com/liamblaschka/Chess">Chess</a>
-- Weather app
-- Tic Tac Toe
-- To do list
-- Snake
+- <a href="https://github.com/liamblaschka/Weather-Application">Weather Application</a>
+- <a href="https://github.com/liamblaschka/Tic-Tac-Toe">Tic Tac Toe</a>
+- <a href="https://github.com/liamblaschka/To-Do-List">To Do List</a>
+- <a href="https://github.com/liamblaschka/Snake">Snake</a>
 
 ## Skills
 - C
