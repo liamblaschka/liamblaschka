@@ -2,9 +2,9 @@
 <a href="https://www.linkedin.com/in/liam-blaschka-549110282/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 I am a highly motivated student studying my penultimate year of Bachelor of Computer Science at The University of Adelaide.<br>
-I greatly excel in problem solving, and have a great interest in technology and how it can be used to create solutions to complex real world problems.
+I excel in problem solving, and have a great interest in technology and how it can be used to create solutions to complex real world problems.
 
-Through my studies, I have come to develop a deep interest in Software Engineering and Artificial Intelligence, recognising their power to impact how we use technology.
+Through my studies, I have come to develop an interest in Software Engineering and Artificial Intelligence.
 
 ## Projects
 - <a href="https://github.com/liamblaschka/Chess">Chess</a>
