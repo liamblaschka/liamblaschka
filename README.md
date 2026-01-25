@@ -14,6 +14,8 @@ I am interested in Software Development and Artificial Intelligence.
 
 ## Skills
 - C/C++
+- Python
+- Java
 - HTML/CSS
 - JavaScript
 - Object-Oriented Programming
