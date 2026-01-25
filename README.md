@@ -6,11 +6,14 @@ I am a highly motivated graduate with a Bachelor of Computer Science at The Univ
 I am interested in Software Development and Artificial Intelligence.
 
 ## Projects
+- <a href="https://github.com/anyangateny1/Code-Catalyst-Block-SEP">Software Enginerring & Project: 3D Block Model Compression Algorithm</a>
 - <a href="https://github.com/liamblaschka/Chess">Chess</a>
-- <a href="https://github.com/liamblaschka/Weather-Application">Weather Application</a>
+- <a href="https://github.com/liamblaschka/Weather-Application">Weather Program</a>
 - <a href="https://github.com/liamblaschka/Tic-Tac-Toe">Tic Tac Toe</a>
 - <a href="https://github.com/liamblaschka/To-Do-List">To-Do List</a>
 - <a href="https://github.com/liamblaschka/Snake">Snake</a>
+
+https://github.com/anyangateny1/Code-Catalyst-Block-SEP
 
 ## Skills
 - C/C++
