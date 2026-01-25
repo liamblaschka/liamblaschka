@@ -3,7 +3,7 @@
 
 I am a highly motivated graduate with a Bachelor of Computer Science at The University of Adelaide. I excel in problem solving, and have a great interest in technology and how it can help solve complex real world problems.
 
-I am interested in Software Development and Artificial Intelligence.
+I am highly interested in Software Development and Artificial Intelligence.
 
 ## Projects
 - <a href="https://github.com/anyangateny1/Code-Catalyst-Block-SEP">Software Enginerring & Project: 3D Block Model Compression Algorithm</a>
