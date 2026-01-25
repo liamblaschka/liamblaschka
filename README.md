@@ -7,6 +7,7 @@ I am interested in Software Development and Artificial Intelligence.
 
 ## Projects
 - <a href="https://github.com/anyangateny1/Code-Catalyst-Block-SEP">Software Enginerring & Project: 3D Block Model Compression Algorithm</a>
+- <a href="https://github.com/liamblaschka/Weather-Aggregation-Server">Weather Aggregation Server</a>
 - <a href="https://github.com/liamblaschka/Chess">Chess</a>
 - <a href="https://github.com/liamblaschka/Weather-Application">Weather Program</a>
 - <a href="https://github.com/liamblaschka/Tic-Tac-Toe">Tic Tac Toe</a>
