@@ -14,8 +14,6 @@ I am interested in Software Development and Artificial Intelligence.
 - <a href="https://github.com/liamblaschka/To-Do-List">To-Do List</a>
 - <a href="https://github.com/liamblaschka/Snake">Snake</a>
 
-https://github.com/anyangateny1/Code-Catalyst-Block-SEP
-
 ## Skills
 - C/C++
 - Python
