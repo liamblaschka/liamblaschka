@@ -1,7 +1,7 @@
 # Liam Blaschka
 <a href="https://www.linkedin.com/in/liam-blaschka-549110282/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-I am a highly motivated student studying in my penultimate year of a Bachelor of Computer Science at The University of Adelaide. I excel in problem solving, and have a great interest in technology and how it can help create solutions to complex real world problems.
+I am a highly motivated graduated with a Bachelor of Computer Science at The University of Adelaide. I excel in problem solving, and have a great interest in technology and how it can help solve complex real world problems.
 
 I am interested in Software Development and Artificial Intelligence.
 
