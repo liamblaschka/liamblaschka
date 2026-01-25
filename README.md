@@ -3,7 +3,7 @@
 
 I am a highly motivated student studying in my penultimate year of a Bachelor of Computer Science at The University of Adelaide. I excel in problem solving, and have a great interest in technology and how it can help create solutions to complex real world problems.
 
-Through my studies, I have come to develop an interest in Software Engineering and Artificial Intelligence.
+I am interested in Software Development and Artificial Intelligence.
 
 ## Projects
 - <a href="https://github.com/liamblaschka/Chess">Chess</a>
