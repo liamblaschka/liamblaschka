@@ -21,8 +21,8 @@ I am interested in Software Development and Artificial Intelligence.
 - Object-Oriented Programming
 - Algorithms and Data Structures
 - Artificial Intelligence
--- Evolutionary Algorithms
--- Computer Vision
+  - Evolutionary Algorithms
+  - Computer Vision
 
 ## Certifications
 <div>
