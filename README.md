@@ -4,7 +4,7 @@
 Bachelor of Computer Science graduate at The University of Adelaide.
 
 ## Projects
-- <a href="https://github.com/anyangateny1/Code-Catalyst-Block-SEP">Software Enginerring & Project: 3D Block Model Compression Algorithm</a>
+- <a href="https://github.com/anyangateny1/Code-Catalyst-Block-SEP">Software Engineering & Project: 3D Block Model Compression Algorithm</a>
 - <a href="https://github.com/liamblaschka/Weather-Aggregation-Server">Weather Aggregation Server</a>
 - <a href="https://github.com/liamblaschka/Snake">Snake</a>
 - <a href="https://github.com/liamblaschka/Chess">Chess</a>
