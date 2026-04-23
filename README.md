@@ -21,8 +21,3 @@ Bachelor of Computer Science graduate at The University of Adelaide.
 - Artificial Intelligence
   - Evolutionary Algorithms
   - Computer Vision
-
-## Certifications
-<div>
-<a href="https://learn.microsoft.com/en-au/users/liamblaschka-6467/credentials/b33ccad408549495"><img src="https://img.shields.io/badge/-Microsoft_Certified:_Azure_AI_Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/></a>
-</div>
